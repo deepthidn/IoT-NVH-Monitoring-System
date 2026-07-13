@@ -87,9 +87,9 @@ This project presents an IoT-based Noise, Vibration, and Harshness (NVH) Monitor
 
 ## Contributors
 
-**Deepthi D Nayak**
-**Deekshith Rajesh Rao**
-**Dhanush D Shetty**
+-Deepthi D Nayak
+-Deekshith Rajesh Rao
+-Dhanush D Shetty
 B.Tech in Electronics and Communication Engineering
 
 ---
